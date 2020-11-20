@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "D:\\Android_Studio_Project\\Kelompok6\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_song.xml.flat",
+        "source": "D:\\Android_Studio_Project\\Kelompok6\\app\\src\\main\\res\\layout\\item_song.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio_Project\\Kelompok6\\app\\build\\intermediates\\res\\merged\\debug\\raw_bensoundukulele.mp3.flat",
+        "source": "D:\\Android_Studio_Project\\Kelompok6\\app\\src\\main\\res\\raw\\bensoundukulele.mp3"
+    },
+    {
+        "merged": "D:\\Android_Studio_Project\\Kelompok6\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_play_circle_filled_24_white.xml.flat",
+        "source": "D:\\Android_Studio_Project\\Kelompok6\\app\\src\\main\\res\\drawable\\ic_baseline_play_circle_filled_24_white.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio_Project\\Kelompok6\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_pause_circle_filled_24_white.xml.flat",
+        "source": "D:\\Android_Studio_Project\\Kelompok6\\app\\src\\main\\res\\drawable\\ic_baseline_pause_circle_filled_24_white.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio_Project\\Kelompok6\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android_Studio_Project\\Kelompok6\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android_Studio_Project\\Kelompok6\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Android_Studio_Project\\Kelompok6\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android_Studio_Project\\Kelompok6\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_skip_next_24.xml.flat",
+        "source": "D:\\Android_Studio_Project\\Kelompok6\\app\\src\\main\\res\\drawable\\ic_baseline_skip_next_24.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio_Project\\Kelompok6\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_skip_previous_24.xml.flat",
+        "source": "D:\\Android_Studio_Project\\Kelompok6\\app\\src\\main\\res\\drawable\\ic_baseline_skip_previous_24.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio_Project\\Kelompok6\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android_Studio_Project\\Kelompok6\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android_Studio_Project\\Kelompok6\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android_Studio_Project\\Kelompok6\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android_Studio_Project\\Kelompok6\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android_Studio_Project\\Kelompok6\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android_Studio_Project\\Kelompok6\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android_Studio_Project\\Kelompok6\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android_Studio_Project\\Kelompok6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mux2.jpg.flat",
+        "source": "D:\\Android_Studio_Project\\Kelompok6\\app\\src\\main\\res\\drawable-v24\\mux2.jpg"
+    },
+    {
+        "merged": "D:\\Android_Studio_Project\\Kelompok6\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android_Studio_Project\\Kelompok6\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android_Studio_Project\\Kelompok6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Android_Studio_Project\\Kelompok6\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio_Project\\Kelompok6\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Android_Studio_Project\\Kelompok6\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio_Project\\Kelompok6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mux.jpg.flat",
+        "source": "D:\\Android_Studio_Project\\Kelompok6\\app\\src\\main\\res\\drawable-v24\\mux.jpg"
+    },
+    {
+        "merged": "D:\\Android_Studio_Project\\Kelompok6\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android_Studio_Project\\Kelompok6\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android_Studio_Project\\Kelompok6\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Android_Studio_Project\\Kelompok6\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio_Project\\Kelompok6\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Android_Studio_Project\\Kelompok6\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio_Project\\Kelompok6\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android_Studio_Project\\Kelompok6\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android_Studio_Project\\Kelompok6\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Android_Studio_Project\\Kelompok6\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android_Studio_Project\\Kelompok6\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_list_music.xml.flat",
+        "source": "D:\\Android_Studio_Project\\Kelompok6\\app\\src\\main\\res\\layout\\activity_list_music.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio_Project\\Kelompok6\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Android_Studio_Project\\Kelompok6\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio_Project\\Kelompok6\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_remove_24.xml.flat",
+        "source": "D:\\Android_Studio_Project\\Kelompok6\\app\\src\\main\\res\\drawable\\ic_baseline_remove_24.xml"
+    }
+]
