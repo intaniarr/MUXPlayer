@@ -1,14 +1,21 @@
+com/fikrimulyap/kelompok6/About.java
+ com.fikrimulyap.kelompok6.About
+ com.fikrimulyap.kelompok6.About$1
 com/fikrimulyap/kelompok6/SongsAdapter.java
  com.fikrimulyap.kelompok6.SongsAdapter
-com/fikrimulyap/kelompok6/Song.java
- com.fikrimulyap.kelompok6.Song
-com/fikrimulyap/kelompok6/BuildConfig.java
- com.fikrimulyap.kelompok6.BuildConfig
 com/fikrimulyap/kelompok6/MusicPlayerActivity.java
  com.fikrimulyap.kelompok6.MusicPlayerActivity
  com.fikrimulyap.kelompok6.MusicPlayerActivity$1
  com.fikrimulyap.kelompok6.MusicPlayerActivity$2
  com.fikrimulyap.kelompok6.MusicPlayerActivity$2$1
-com/fikrimulyap/kelompok6/ListMusicActivity.java
- com.fikrimulyap.kelompok6.ListMusicActivity
- com.fikrimulyap.kelompok6.ListMusicActivity$1
+com/fikrimulyap/kelompok6/BuildConfig.java
+ com.fikrimulyap.kelompok6.BuildConfig
+com/fikrimulyap/kelompok6/Song.java
+ com.fikrimulyap.kelompok6.Song
+com/fikrimulyap/kelompok6/DashBoard.java
+ com.fikrimulyap.kelompok6.DashBoard
+ com.fikrimulyap.kelompok6.DashBoard$1
+com/fikrimulyap/kelompok6/MainActivity.java
+ com.fikrimulyap.kelompok6.MainActivity
+ com.fikrimulyap.kelompok6.MainActivity$1
+ com.fikrimulyap.kelompok6.MainActivity$2

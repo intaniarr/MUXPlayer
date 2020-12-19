@@ -11,7 +11,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Kelompok6">
-        <activity android:name=".ListMusicActivity">
+        <activity android:name=".About"></activity>
+        <activity android:name=".DashBoard" />
+        <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
