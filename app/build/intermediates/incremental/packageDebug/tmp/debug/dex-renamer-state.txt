@@ -1,7 +1,7 @@
-#Sat Dec 26 11:03:46 ICT 2020
-base.0=D\:\\Android_Studio_Project\\MUXPlayer\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+#Thu Jan 07 14:14:20 ICT 2021
+base.0=D\:\\mobile\\MUXPlayer-master(1)\\MUXPlayer-master\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=D\:\\Android_Studio_Project\\MUXPlayer\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+base.1=D\:\\mobile\\MUXPlayer-master(1)\\MUXPlayer-master\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex

@@ -39,9 +39,9 @@ public class DashBoard extends AppCompatActivity {
                         overridePendingTransition(0,0);
                         return true;
 
-                    case R.id.about:
+                    case R.id.library:
                         startActivity(new Intent(getApplicationContext(),
-                                About.class));
+                                Library.class));
                         overridePendingTransition(0,0);
                         return true;
                 }

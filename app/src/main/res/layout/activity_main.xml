@@ -32,7 +32,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:src="@drawable/ic_baseline_remove_24"
-            android:tint="#000000"/>
+            app:tint="#000000" />
 
         <TextView
             android:id="@+id/tvTitle"
@@ -123,6 +123,13 @@
                 android:layout_width="50dp"
                 android:layout_height="50dp"
                 android:background="@drawable/ic_baseline_skip_next_24"
+                />
+
+            <Button
+                android:id="@+id/btnFav"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:background="@drawable/ic_baseline_favorite_24"
                 />
 
         </LinearLayout>

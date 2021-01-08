@@ -10,7 +10,7 @@
         android:title="Home"
         android:icon="@drawable/ic_home" />
     <item
-        android:id="@+id/about"
-        android:title="About"
-        android:icon="@drawable/ic_about" />
+        android:id="@+id/library"
+        android:title="Library"
+        android:icon="@drawable/ic_library" />
 </menu>

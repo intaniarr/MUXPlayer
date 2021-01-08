@@ -16,14 +16,19 @@ import android.widget.ListView;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.ActivityCompat;
+import androidx.viewpager.widget.ViewPager;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
+import com.google.android.material.tabs.TabLayout;
 
 import java.util.ArrayList;
 
 //import android.support.v7.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
+
+    TabLayout tabLayout;
+    ViewPager viewPager;
 
     private static final int REQUEST_PERMISSION = 99;
 
@@ -35,6 +40,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home);
+
 
         lvSongs = findViewById(R.id.lvSongs);
 
@@ -81,9 +87,9 @@ public class MainActivity extends AppCompatActivity {
                     case R.id.home:
                         return true;
 
-                    case R.id.about:
+                    case R.id.library:
                         startActivity(new Intent(getApplicationContext(),
-                                About.class));
+                                Library.class));
                         overridePendingTransition(0,0);
                         return true;
                 }

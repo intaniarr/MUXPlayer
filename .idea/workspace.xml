@@ -13,39 +13,13 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="688d4a8f-f41b-44b2-a123-ceaa24bdc785" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../CobaMyListView/app/src/main/res/drawable-v24/ahmad_dahlan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CobaMyListView/app/src/main/res/drawable-v24/ahmad_yani.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CobaMyListView/app/src/main/res/drawable-v24/bung_tomo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CobaMyListView/app/src/main/res/drawable-v24/gatot_subroto.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CobaMyListView/app/src/main/res/drawable-v24/ki_hadjar_dewantara.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CobaMyListView/app/src/main/res/drawable-v24/mohammad_hatta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CobaMyListView/app/src/main/res/drawable-v24/sudirman.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CobaMyListView/app/src/main/res/drawable-v24/sukarno.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CobaMyListView/app/src/main/res/drawable-v24/supomo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CobaMyListView/app/src/main/res/drawable-v24/tan_malaka.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MyListView/app/src/main/java/com/fikrimulyap/mylistview/Hero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MyListView/app/src/main/res/drawable-v24/ahmad_dahlan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MyListView/app/src/main/res/drawable-v24/ahmad_yani.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MyListView/app/src/main/res/drawable-v24/bung_tomo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MyListView/app/src/main/res/drawable-v24/gatot_subroto.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MyListView/app/src/main/res/drawable-v24/ki_hadjar_dewantara.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MyListView/app/src/main/res/drawable-v24/mohammad_hatta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MyListView/app/src/main/res/drawable-v24/sudirman.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MyListView/app/src/main/res/drawable-v24/sukarno.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MyListView/app/src/main/res/drawable-v24/supomo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MyListView/app/src/main/res/drawable-v24/tan_malaka.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MyListView/app/src/main/res/layout/item_hero.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MyViewAndViews/app/src/main/res/drawable/ic_collections_white_18dp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MyViewAndViews/app/src/main/res/drawable/photo_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MyViewAndViews/app/src/main/res/drawable/pixel_google.jpg" afterDir="false" />
-    </list>
+    <list default="true" id="688d4a8f-f41b-44b2-a123-ceaa24bdc785" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[emulator-5554]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_4_API_30]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -55,7 +29,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="layoutResourceFile_vertical" />
+        <option value="layoutResourceFile" />
         <option value="Class" />
+        <option value="resourceFile" />
+        <option value="valueResourceFile" />
       </list>
     </option>
   </component>
@@ -75,32 +52,41 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ApkExportedModule" value="Kelompok6.app" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_4_API_30" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-01-04T02:40:12.532Z" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="android.sdk.path" value="C:/Android/SDK" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../../../../Android/SDK" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/FragranceCart-WishList/FragranceCart-WishList" />
     <property name="project.structure.last.edited" value="Build Variants" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="PsdUISettings">
     <option name="LAST_EDITED_BUILD_TYPE" value="release" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.fikrimulyap.kelompok6" />
-    </key>
-    <key name="android.template.1378894383">
-      <recent name="com.fikrimulyap.kelompok6" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Android_Studio_Project\MUXPlayer-master\app\src\main\res\values-night" />
+      <recent name="D:\Android_Studio_Project\MUXPlayer-master\app\src\main\res\drawable" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\Downloads\MUXPlayer-master\MUXPlayer-master\app\src\main\res\drawable-v24" />
       <recent name="D:\Android_Studio_Project\MUXPlayer\app\src\main\java\com\fikrimulyap\kelompok6" />
       <recent name="D:\Android_Studio_Project\MUXPlayer\app\src\main\res\drawable" />
       <recent name="D:\Android_Studio_Project\MUXPlayer\app\src\main\res" />
       <recent name="D:\Android_Studio_Project\MUXPlayer\app\src\main\res\layout" />
-      <recent name="D:\Android_Studio_Project\MyAudioPlayer\app\src\main\Kelompok6\app\src\main\res\drawable-v24" />
+    </key>
+    <key name="android.template.1378894383">
+      <recent name="com.fikrimulyap.kelompok6" />
+    </key>
+    <key name="android.template.-1358502392">
+      <recent name="com.fikrimulyap.kelompok6" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.fikrimulyap.kelompok6" />
     </key>
   </component>
   <component name="RunManager">
@@ -195,49 +181,66 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="876" y="217" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1605796797979" />
-    <state x="958" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1605805897294">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="798" y="93" key="#com.intellij.ide.util.MemberChooser" timestamp="1608522432114">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="798" y="93" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1608522432114" />
     <state x="958" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1605805897294" />
-    <state x="882" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608342468651">
+    <state x="735" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609394935943">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="735" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1609394935943" />
+    <state x="882" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1609129671322" />
+    <state x="93" y="93" width="1095" height="495" key="AVDManager" timestamp="1608533305907">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="AVDManager/0.0.1280.680@0.0.1280.680" timestamp="1608533305907" />
+    <state x="698" y="170" key="AndroidCreateResourceDirectoryDialog" timestamp="1609126030967">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="882" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1608342468651" />
-    <state x="698" y="170" key="AndroidCreateResourceDirectoryDialog" timestamp="1605797207914">
+    <state x="698" y="170" key="AndroidCreateResourceDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1609126030967" />
+    <state x="698" y="170" key="AndroidCreateResourceFileDialog" timestamp="1609126818032">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="698" y="170" key="AndroidCreateResourceDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1605797207914" />
-    <state x="698" y="170" key="AndroidCreateResourceFileDialog" timestamp="1605805151119">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="442" y="140" key="AndroidCreateResourceFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1608387493775" />
+    <state x="698" y="170" key="AndroidCreateResourceFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1609126818032" />
+    <state x="487" y="130" key="AndroidCreateXmlResourceDialog" timestamp="1610001266756">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="698" y="170" key="AndroidCreateResourceFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1605805151119" />
-    <state x="266" y="117" key="FileChooserDialogImpl" timestamp="1608955572623">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="487" y="130" key="AndroidCreateXmlResourceDialog/0.0.1280.680@0.0.1280.680" timestamp="1610001266756" />
+    <state x="222" y="97" key="FileChooserDialogImpl" timestamp="1609990358711">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="266" y="117" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1608955572623" />
-    <state width="1491" height="217" key="GridCell.Tab.0.bottom" timestamp="1605861938004">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="222" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1609990358711" />
+    <state x="266" y="117" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1609124338772" />
+    <state width="1236" height="163" key="GridCell.Tab.0.bottom" timestamp="1609728631333">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1236" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1609728631333" />
     <state width="1491" height="217" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605861938004" />
-    <state width="1491" height="217" key="GridCell.Tab.0.center" timestamp="1605861938004">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1236" height="163" key="GridCell.Tab.0.center" timestamp="1609728631330">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1236" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1609728631330" />
     <state width="1491" height="217" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605861938004" />
-    <state width="1491" height="217" key="GridCell.Tab.0.left" timestamp="1605861938004">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1236" height="163" key="GridCell.Tab.0.left" timestamp="1609728631325">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1236" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1609728631325" />
     <state width="1491" height="217" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605861938004" />
-    <state width="1491" height="217" key="GridCell.Tab.0.right" timestamp="1605861938004">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1236" height="163" key="GridCell.Tab.0.right" timestamp="1609728631331">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1236" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1609728631331" />
     <state width="1491" height="217" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605861938004" />
     <state x="540" y="133" key="RollbackChangesDialog" timestamp="1608299349287">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="540" y="133" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1608299349287" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1608299165499">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="231" y="0" key="SettingsEditor" timestamp="1608385189213">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="231" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1608385189213" />
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1608299165499" />
     <state x="968" y="193" key="chooseDestDirectoryDialog" timestamp="1605800029779">
       <screen x="0" y="0" width="1536" height="824" />
